@@ -86,11 +86,10 @@ h1, .h1 {
         font-size: 2rem;
       }
       @include media-breakpoint-only(sm) {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
       }
       @include media-breakpoint-only(xs) {
-        font-size: 1.8rem;
-          margin:0.7rem;
+        font-size: 1.7rem;
       }
 }
 h6, .h6 {

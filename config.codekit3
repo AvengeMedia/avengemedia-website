@@ -9,21 +9,6 @@
 	],
 "creatorBuild": "26667",
 "files": {
-	"\/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/.htaccess",
-		"oF": 0
-		},
-	"\/.vscode\/settings.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/.vscode\/settings-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/assets\/avengelogo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -531,22 +516,40 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/main-v1.min.css": {
+	"\/main-v2.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/main-v1.min-min.css",
+		"oAP": "\/main-v2.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/main-v1.min.css.map": {
+	"\/main-v2.min.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/main-v1.min.css.map",
+		"oAP": "\/main-v2.min.css.map",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/robot.txt": {
 		"cB": 0,
@@ -573,7 +576,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/main-v1.min.css",
+		"oAP": "\/main-v2.min.css",
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
@@ -1715,7 +1718,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 571077481,
-	"displayValue": "avengemedia-website-local",
+	"displayValue": "avengemedia-website",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
 	"iconImageWasSetByUser": 0
